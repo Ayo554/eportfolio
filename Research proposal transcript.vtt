@@ -1,0 +1,319 @@
+WEBVTT
+
+1
+00:00:05.010 --> 00:00:26.760
+Hello, the title of this project is
+Machine Learning for Cybersecurity Threat Detection and Prevention
+
+2
+00:00:27.070 --> 00:00:31.190
+Cybersecurity is a critical concern in the digital age, with increasing incidents of sophisticated cyber attacks threatening individuals, businesses, and governments.
+
+3
+00:00:31.890 --> 00:00:42.389
+With the global digital landscape expanding rapidly, cyber-attacks have become a real source of revenue for cyber criminals.
+
+4
+00:00:42.420 --> 00:00:46.589
+In Africa, for instance, the rise in internet penetration has been paralleled by an increase in cyber threats, costing economies billions annually
+
+5
+00:00:46.630 --> 00:00:51.420
+It is therefore important to explore the role of machine learning in Cybersecurity threat detection and prevention because traditional security measures have been shown to fall short in addressing the dynamic and evolving threats posed by these cybercriminals
+
+6
+00:00:51.550 --> 00:01:11.679
+Machine learning offers a promising approach which leverages on data-driven techniques to detect, predict, and prevent cyber threats in real time.
+
+7
+00:01:11.980 --> 00:01:27.090
+This research aims to explore and understand the role of Machine learning in cybersecurity, with focus on threat detection and prevention
+
+8
+00:01:27.630 --> 00:01:31.790
+so as to better advise on the effectiveness and efficiency of these defense mechanisms as opposed to traditional cybersecurity models.
+
+9
+00:01:31.990 --> 00:01:41.600
+While significant strides have been made in developing artificial intelligence for various applications, its direct implementation in cybersecurity requires further examination as it remains largely under-explored compared to other areas of computing and information technology
+
+10
+00:01:41.630 --> 00:01:55.139
+This research aims to bridge this gap by providing a comprehensive analysis of ML techniques tailored to cybersecurity.
+
+11
+00:01:55.140 --> 00:02:14.709
+By focusing on journals and articles written by both academic and industry based professionals, this study will enrich the existing body of knowledge, offering new insights and frameworks that can be utilized by researchers and practitioners alike
+12
+00:02:15.210 --> 00:02:19.170
+Specifically, it will address the unique cybersecurity challenges faced in different regions, including Africa, where the rapid adoption of digital technologies has not been matched by proportional advancements in security measures.
+
+13
+00:02:19.580 --> 00:02:24.509
+Academically, this research will further aid an understanding of the intersection between Machine Learning and cybersecurity.
+
+14
+00:02:25.160 --> 00:02:32.359
+It will provide a detailed review of current literature, identify gaps, and propose novel methodologies for threat detection and prevention. 
+
+15
+00:02:32.380 --> 00:02:34.950
+As advanced as Machine Learning and computing power is today, there still exists a gap between this progress and it’s utilization in cybersecurity threat detection and mitigation.
+
+16
+00:02:35.230 --> 00:02:38.429
+In their survey on intelligent spam Email detection, A. Karim et al recommended more research into hybrid and multi-algorithm Machine Learning-based anti-spam systems.
+
+17
+00:02:38.890 --> 00:02:41.760
+Also, Srinivas and other researchers (2023) hinted that, despite the increase in threat detection accuracy, minimal false positive rate, and reduction in response times to cyber attacks,
+
+18
+00:02:41.980 --> 00:02:46.679
+the true potential of Artificial Intelligence and Machine Learning technologies in cybersecurity are not being maximized.
+
+19
+00:02:46.890 --> 00:02:50.439
+As presented by D. Gibert et al in 2020, the complexity of malware attacks seem to be matching (if not surpassing) the growth in the combating forces and this is a call to attention for researchers and cyber enthusiasts.
+
+20
+00:02:50.570 --> 00:03:01.460
+Other researchers such as M. Botacin et al (2021), Rashid M.M. et al (2022), T. Saba (2022), also note that there are untapped potentials in Machine Learning and Deep Learning, especially when it comes to their applications to cybersecurity
+
+21
+00:03:01.460 --> 00:03:01.700
+
+
+22
+00:03:01.710 --> 00:03:08.450
+mainly due to ethical constraints, lack of standardized datasets on which to train the models, and lack of robust models able to adapt quickly to the dynamics of the cyber space.
+
+23
+00:03:08.890 --> 00:03:15.040
+These are some of the problems plaguing the application of Machine Learning to cybersecurity threat detection and prevention, which this study proposes to tackle.
+
+24
+00:03:15.160 --> 00:03:31.430
+How can machine learning techniques be utilized to improve the detection and prevention of cybersecurity threats, and what are the practical challenges associated with their implementation?
+
+25
+00:03:31.490 --> 00:03:35.069
+This study aims at investigating and developing an advanced machine learning model for effective cybersecurity threat detection and prevention.
+
+26
+00:03:36.160 --> 00:03:42.020
+This research also has the following objectives:
+
+27
+00:03:42.210 --> 00:03:50.039
+To understand how effective machine learning has been in the detection and prevention of threats in cybersecurity.
+
+28
+00:03:50.210 --> 00:03:55.719
+Futhermore, we hope to identify the major challenges and drawbacks in the application of these techniques.
+
+29
+00:03:56.090 --> 00:04:20.119
+Also, this research will analyse the impact of these issues on the utilization of Machine learning models in the cybersecurity space.
+
+30
+00:04:20.440 --> 00:04:29.530
+Lastly, we will develop a hybrid machine learning model that will address the problems identified in the research problems, as well as adding new contributions to the practice of cybersecurity.
+
+31
+00:04:29.630 --> 00:04:39.259
+For this research, we are proposing a systematic literature review which will explain the fundamental concepts of Machine Learning, then navigate to Cybersecurity and how Machine Learning has been applied to Cybersecurity in previous research works.
+
+32
+00:04:39.310 --> 00:04:44.160
+This review includes previous discussions and research studies on the
+
+33
+00:04:44.660 --> 00:04:47.800
+Definition of machine learning, Importance of machine learning, Types of machine learning models and how each is applied to different fields of influence, 
+
+34
+00:04:47.900 --> 00:04:49.390
+Merits and demerits of ML because it is believed and studies have shown that despite the promise and huge potentials in Machine Learning,
+
+35
+00:04:49.410 --> 00:04:51.210
+it has a number of demerits in terms of abuse and misuse by people. We will also explore literature covering the limitations of ML.
+
+36
+00:04:51.430 --> 00:05:07.759
+Next, we’ll look at our core application area, which is cybersecurity, we will review recent literatures covering facts and statistics showing the need for cybersecurity,
+
+37
+00:05:08.040 --> 00:05:26.380
+this review will also cover traditional cybersecurity tools used for threat detection and prevention.
+
+38
+00:05:26.700 --> 00:05:27.900
+We will then delve into the Machine Learning models that have been applied to cybersecurity in recent studies, and compare their level of impact.
+
+39
+00:05:28.230 --> 00:05:32.119
+It is important that we cover these core areas so as to know what limitations have been encountered, what issues and challenges have been faced in the past, and also outline some of the recommendation of the authors for exploration.
+
+40
+00:05:32.380 --> 00:05:36.900
+This will help in the development of our proposed hybrid model, where we aim to combine the robustness and strength of multiple Machine Learning models in the defense against cyber threats.
+
+41
+00:05:37.340 --> 00:05:50.189
+Some of the literatures we hope to thoroughly peruse are comprehensive surveys on Machine Learning and Cybersecurity by A. Karim et al (2019)
+
+42
+00:05:50.620 --> 00:05:51.740
+Okay. Also,
+
+43
+00:05:51.820 --> 00:06:05.319
+Yang Xin’s 2018 publication on Machine Learning and Deep Learning methods for Cybersecurity,
+
+44
+00:06:05.800 --> 00:06:11.090
+a technical report on Machine Learning in Cybersecurity by the Software Engineering Institute, Carnegie Mellon University (2019),
+
+45
+00:06:11.560 --> 00:06:20.279
+the comparative study by A. Srinivas on utilizing AI and Machine Learning in Cybersecurity (2023),
+
+46
+00:06:20.320 --> 00:06:31.549
+and other relevant research materials specifically focused on the mitigation of individual cybersecurity threats.
+
+47
+00:06:31.750 --> 00:06:36.890
+We will conduct a comprehensive review of existing literature on ML techniques in cybersecurity using the procedure explained in the previous slide.
+
+48
+00:06:37.330 --> 00:07:00.160
+Next, we’ll gather data from various cybersecurity sources, including intrusion detection systems (IDS), malware databases, and network traffic logs.
+
+49
+00:07:00.500 --> 00:07:01.930
+The collected datasets will then be used to implement and train multiple Machine Learning models (e.g., decision trees, random forests, neural networks) so as to compare their performances and efficiency
+
+50
+00:07:01.960 --> 00:07:20.930
+Assess the performance of these models using metrics such as accuracy, precision, recall, and F1-score.
+
+51
+00:07:21.540 --> 00:07:32.539
+Based on the evaluation, develop a framework for integrating ML into cybersecurity systems, focusing on scalability, efficiency, and ease of deployment.
+
+52
+00:07:33.000 --> 00:07:34.389
+Apply the developed framework to real-world case studies to validate its effectiveness and practicality.
+
+53
+00:07:34.510 --> 00:07:38.700
+Research ethics are the set of principles, policies, procedures, protocols and industry guidelines that have been adhered to in the course of the research.
+
+54
+00:07:38.810 --> 00:07:47.850
+This includes informed Consent; not collecting data from minors unless it’s a child-focused research
+
+55
+00:07:48.460 --> 00:08:03.210
+If data will be collected from minors, consent must be sought from the parents/guardians
+
+56
+00:08:03.270 --> 00:08:13.060
+Senior citizens (65) should not be questioned.
+
+57
+00:08:13.100 --> 00:08:18.379
+If data will be collected from seniors, consent must be sought from their primary care provider.
+
+58
+00:08:18.910 --> 00:08:19.960
+Models and other codes written for the project must not be shared with anyone outside the project team.
+
+59
+00:08:21.030 --> 00:08:24.189
+Computers used should have restricted access and kept under lock when not in use.
+
+60
+00:08:24.540 --> 00:08:32.660
+We will ensure that all data used in the research is anonymized to protect personal information and comply with data protection regulations.
+
+61
+00:08:32.799 --> 00:08:53.349
+Evaluate models for potential biases and ensure fair treatment of all data categories to avoid discrimination.
+
+62
+00:08:53.790 --> 00:09:16.740
+Implement robust security measures to protect the research data and infrastructure from cyber-attacks.
+
+63
+00:09:16.810 --> 00:09:20.050
+Maintain transparency in the research process and methodologies to enable reproducibility and validation by other researchers.
+
+64
+00:09:20.230 --> 00:09:26.669
+In the course of this research, we will deliver a
+
+65
+00:09:27.100 --> 00:09:48.299
+Comprehensive Literature Review, showing a detailed analysis of current machine learning techniques in cybersecurity.
+
+66
+00:09:48.770 --> 00:10:02.080
+Evaluation Reports showing a detailed performance of a number of machine learning models on cyber threats.
+
+67
+00:10:02.240 --> 00:10:12.810
+Anupam Mazumdar: Now, what we need to do. We need to print some of the steps here. So now here we go. We simulated the data. Now we say that while true.
+
+68
+00:10:12.860 --> 00:10:26.419
+The proposed duration for this project is a period of 12 weeks, starting 10th June, 2024.
+
+69
+00:10:26.680 --> 00:10:30.670
+The first part of the research will be focused on a comprehensive literature review over an estimated period of 2 weeks, which will be done along side the collection of data for training. 
+
+70
+00:10:31.270 --> 00:10:42.280
+The literature review will advise on the most effective models, which will be selected, implemented, and trained on collected data, in a quest to replicate the results achieved in the reviewed literatures.
+
+71
+00:10:42.940 --> 00:11:00.640
+Following the rigorous model selection and training process, we will evaluate the results and for the next 4 weeks,
+
+72
+00:11:00.760 --> 00:11:08.429
+work on developing a hybrid system which will be trained and tested on a number of case studies.
+
+73
+00:11:08.490 --> 00:11:15.260
+Finally, the work will be documented and disseminated.
+
+74
+00:11:15.290 --> 00:11:32.840
+This proposed timeline might have some overlapping activities as well as feedbacks leading to previous activities, 
+
+75
+00:11:32.880 --> 00:11:40.910
+but we hope to round up the research work in about 12 weeks as shown in the Gantt chart. 
+
+76
+00:11:41.510 --> 00:11:50.550
+In conclusion,
+
+77
+00:11:50.610 --> 00:11:56.150
+we propose a comprehensive study into the use of Machine Learning in Cybersecurity threat detection and prevention
+
+78
+00:11:57.440 --> 00:12:01.070
+and aim to develop a state of the art hybrid solution to the paramound challenges hindering the progress of cybersecurity.
+
+79
+00:12:01.150 --> 00:12:09.980
+Thank you
+
+
